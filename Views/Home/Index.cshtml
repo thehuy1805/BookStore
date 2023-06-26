@@ -1,0 +1,45 @@
+﻿@* @model IEnumerable<FPTBook.Models.Book>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<section class="section" id="men">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="men-item-carousel">
+                        <div class="owl-men-item owl-carousel">
+                            @foreach (var item in Model) {
+                            <div class="item">
+                                <div class="thumb">
+                                    <div class="hover-content">
+                                        <ul>
+                                            <li><a asp-action="Edit" asp-route-id="@item.Id"><i class="fa fa-eye"></i></a></li>
+                                            <li><a href="single-product.html"><i class="fa fa-star"></i></a></li>
+                                            <li><a href="single-product.html"><i class="fa fa-shopping-cart"></i></a></li>
+                                        </ul>
+                                    </div>
+                                    <img src ="~/uploads/@item.UploadImage" alt="">
+                                </div>
+                                <div class="down-content">
+                                    <h4>@Html.DisplayFor(modelItem => item.Name)</h4>
+                                    <span>$@Html.DisplayFor(modelItem => item.Price)</span>
+                                    
+                                </div>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> *@
+    <div>
+            <img style="width: 100%;" src="/uploads/header.png">
+    </div>
+    <a asp-controller="Book" style="display: block;text-align: center;margin-top: 3rem;" asp-action="index">
+        <button class="btn btn-info">Go to product list</button>
+        </a>

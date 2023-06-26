@@ -1,0 +1,91 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FPTBook</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/FPTBook.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" type="text/css" href="~/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="~/css/font-awesome.css">
+
+    <link rel="stylesheet" href="~/css/templatemo-hexashop.css">s
+
+    <link rel="stylesheet" href="~/css/owl-carousel.css">
+
+    <link rel="stylesheet" href="~/css/lightbox.css">
+</head>
+<body>
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+    
+    
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky" style="background: beige;">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav" >
+                        <!-- ***** Logo Start ***** -->
+                        <a class="navbar-brand animate-character" style="line-height: 73px;" asp-area="" asp-controller="Home" asp-action="Index">
+                            FPTBook
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li class="scroll-to-section"><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Home</a></li>
+                            <li class="scroll-to-section"><a class="navbar-brand" asp-area="" asp-controller="Book" asp-action="Index">Product</a></li>
+                            <li class="scroll-to-section"><a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Privacy">Help</a></li>
+                            <partial name="_LoginPartial"/>
+                        </ul>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+    <div style = "min-height:600px; margin-top:100px; margin-bottom:100px; margin-left: 50px; margin-right: 50px;">
+    @RenderBody()
+    </div>
+    <!-- ***** Footer Start ***** -->
+    <footer style="background: beige;">
+        <div class="container " >
+            <span class="animate-character"> &copy; 2022 - FPTBook </span> | <a asp-area="" asp-controller="Home" asp-action="Privacy">Help</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="~/js/popper.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="~/js/owl-carousel.js"></script>
+    <script src="~/js/accordions.js"></script>
+    <script src="~/js/datepicker.js"></script>
+    <script src="~/js/scrollreveal.min.js"></script>
+    <script src="~/js/waypoints.min.js"></script>
+    <script src="~/js/jquery.counterup.min.js"></script>
+    <script src="~/js/imgfix.min.js"></script> 
+    <script src="~/js/slick.js"></script> 
+    <script src="~/js/lightbox.js"></script> 
+    <script src="~/js/isotope.js"></script> 
+    
+    <!-- Global Init -->
+    <script src="~/js/custom.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

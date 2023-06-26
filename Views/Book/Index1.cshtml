@@ -1,0 +1,50 @@
+@model IEnumerable<FPTBook.Models.Book>
+
+@{
+    ViewData["Title"] = "Index1";
+}
+
+<h1>Book management</h1>
+
+<p>
+<a asp-action="Create">Create New</a>
+<form asp-controller="EPPlus" asp-action="ExportV2">
+            <p>
+                <input type="submit" value="Export" />
+            </p>
+</form>
+<table class="table">
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                <img style="width: 100px; height: 100px;" src="/uploads/@item.UploadImage" />
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Author.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Category.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Publisher.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

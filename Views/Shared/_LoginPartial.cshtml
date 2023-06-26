@@ -1,0 +1,42 @@
+@using Microsoft.AspNetCore.Identity;
+@using FPTBook.Areas.Identity.Data;
+@inject SignInManager<FPTBookUser> SignInManager
+@inject UserManager<FPTBookUser> UserManager
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <li class="scroll-to-section"><a class="navbar-brand" asp-area="" asp-controller="Book" asp-action="Checkout">Cart</a></li>
+    <div class="dropdown">
+  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Hello @UserManager.GetUserName(User)!
+  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+    <a id="manage" class="dropdown-item" asp-area="Identity" asp-page="/Account/Manage/Index" title="Manage">Manage Profile</a>
+    <a id="userrole" class="dropdown-item" asp-area="" asp-controller="UserRoles" asp-action="Index" title="UserRole">User Role (Admin Only)</a>
+    <a id="rolemanager" class="dropdown-item" asp-area="" asp-controller="RoleManager" asp-action="Index" title="RoleManager">Role Manager (Admin Only)</a>
+    <a id="category" class="dropdown-item" asp-area="" asp-controller="Category" asp-action="Index" title="Category">Manage Category (Admin and Store Owner Only)</a>
+    <a id="book" class="dropdown-item" asp-area="" asp-controller="Book" asp-action="Index1" title="Book">Manage Book (Store Owner Only)</a>
+    <a id="order" class="dropdown-item" asp-area="" asp-controller="Order" asp-action="Index" title="Order">Manage Order (Store Owner Only)</a>
+    <a id="publisher" class="dropdown-item" asp-area="" asp-controller="Publisher" asp-action="Index" title="Publisher">Mange Publisher (Store Owner Only)</a>
+    <a id="Author" class="dropdown-item" asp-area="" asp-controller="Author" asp-action="Index" title="Author">Mange Author (Store Owner Only)</a>
+  </div>
+</div>
+    
+    <li class="scroll-to-section">
+        <form id="logoutForm" class="navbar-brand" asp-area="Identity" asp-page="/Account/Logout" asp-route-returnUrl="@Url.Action("Index", "Home", new { area = "" })">
+            <button id="logout" type="submit"  class="btn btn-primary navbar-brand">Sign out</button>
+        </form>
+    </li>
+}
+else
+{
+    
+    <li class="scroll-to-section">
+        <a class="navbar-brand" id="register" asp-area="Identity" asp-page="/Account/Register">Register</a>
+    </li>
+    <li class="scroll-to-section">
+        <a class="navbar-brand" id="login" asp-area="Identity" asp-page="/Account/Login">Sign in</a>
+    </li>
+}
+
