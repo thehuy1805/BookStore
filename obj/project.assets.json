@@ -11060,11 +11060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\FPTBook.csproj",
+      "projectUniqueName": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\FPTBook.csproj",
       "projectName": "FPTBook",
-      "projectPath": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\FPTBook.csproj",
+      "projectPath": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\FPTBook.csproj",
       "packagesPath": "C:\\Users\\PHAM THE HUY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\",
+      "outputPath": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PHAM THE HUY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Gkgt+UXLLpR3fliNrtS2U8BKPJ26iOpUAt8MfS6NpoE=",
+  "Hash": "GCVD5z32UZMzRR10QE6kjWJCUDEoryHzsa+gjOYu4/I=",
   "Source": "FPTBook",
   "BasePath": "_content/FPTBook",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "FPTBook\\wwwroot",
       "Source": "FPTBook",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\PHAM THE HUY\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.10\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FPTBook.styles.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FPTBook.styles.css",
       "SourceId": "FPTBook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "FPTBook.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FPTBook.styles.css"
+      "OriginalItemSpec": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\bundle\\FPTBook.styles.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook.bundle.scp.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook.bundle.scp.css",
       "SourceId": "FPTBook",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "FPTBook.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FPTBook.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\flex-slider.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\flex-slider.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/flex-slider.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\flex-slider.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\font-awesome.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\font-awesome.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/font-awesome.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\lightbox.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\lightbox.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/lightbox.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\lightbox.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\owl-carousel.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\owl-carousel.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/owl-carousel.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl-carousel.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\site.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\css\\templatemo-hexashop.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\css\\templatemo-hexashop.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "css/templatemo-hexashop.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\templatemo-hexashop.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\favicon.ico",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\Flaticon.woff",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\Flaticon.woff",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/Flaticon.woff",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Flaticon.woff"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.eot",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.svg",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.ttf",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\flexslider-icon.woff",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.eot",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.svg",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.woff",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\FontAwesome.otf",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\slick.eot",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\slick.eot",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/slick.eot",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.eot"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\slick.svg",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\slick.svg",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/slick.svg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.svg"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\slick.ttf",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\slick.ttf",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/slick.ttf",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.ttf"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\fonts\\slick.woff",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\fonts\\slick.woff",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "fonts/slick.woff",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\slick.woff"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\accordions.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\accordions.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/accordions.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\accordions.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\custom.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\custom.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/custom.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\js\\custom.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\datepicker.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\datepicker.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/datepicker.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\js\\datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\imgfix.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\imgfix.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/imgfix.min.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\js\\imgfix.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\isotope.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\isotope.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/isotope.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\jquery-2.1.0.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\jquery-2.1.0.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/jquery-2.1.0.min.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery-2.1.0.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\jquery.counterup.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/jquery.counterup.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\lightbox.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\lightbox.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/lightbox.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\js\\lightbox.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\owl-carousel.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\owl-carousel.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/owl-carousel.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\popper.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\popper.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/popper.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\quantity.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\quantity.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/quantity.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\js\\quantity.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\scrollreveal.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\scrollreveal.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/scrollreveal.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\js\\scrollreveal.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\site.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\slick.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\slick.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/slick.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\js\\slick.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\js\\waypoints.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\js\\waypoints.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "js/waypoints.min.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\js\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\41ENK2VsZLL._SX331_BO1,204,203,200_.jpg",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\41ENK2VsZLL._SX331_BO1,204,203,200_.jpg",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/41ENK2VsZLL._SX331_BO1,204,203,200_.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\41ENK2VsZLL._SX331_BO1,204,203,200_.jpg"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\517-rte-S8L._SX331_BO1,204,203,200_.jpg",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\517-rte-S8L._SX331_BO1,204,203,200_.jpg",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/517-rte-S8L._SX331_BO1,204,203,200_.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\517-rte-S8L._SX331_BO1,204,203,200_.jpg"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\661259317c0a621af3ef0ca438218b58.jpg.webp",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\661259317c0a621af3ef0ca438218b58.jpg.webp",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/661259317c0a621af3ef0ca438218b58.jpg.webp",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\661259317c0a621af3ef0ca438218b58.jpg.webp"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\header.png",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\header.png",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/header.png",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\header.png"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 123424.png",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 123424.png",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/Screenshot 2023-06-24 123424.png",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2023-06-24 123424.png"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 124530.png",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 124530.png",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/Screenshot 2023-06-24 124530.png",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\uploads\\Screenshot 2023-06-24 124530.png"
     },
     {
-      "Identity": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 124847.png",
+      "Identity": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\uploads\\Screenshot 2023-06-24 124847.png",
       "SourceId": "FPTBook",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\PHAM THE HUY\\Downloads\\FPTBook-main\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\PHAM THE HUY\\OneDrive\\Desktop\\1670\\FPTBook-main\\wwwroot\\",
       "BasePath": "_content/FPTBook",
       "RelativePath": "uploads/Screenshot 2023-06-24 124847.png",
       "AssetKind": "All",
