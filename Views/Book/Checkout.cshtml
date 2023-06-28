@@ -13,7 +13,7 @@ List<CartItem> myItems=(List<CartItem>)ViewData["myItems"];
 </tr>
 @foreach (var item in myItems)
 {
-    total += (1.1*item.Price)*item.Quantity;
+    total += (1*item.Price)*item.Quantity;
     <tr>
         <form asp-action="EditOrder" method="post">
         <td>@item.Name</td>
