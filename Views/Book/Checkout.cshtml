@@ -17,9 +17,9 @@ List<CartItem> myItems=(List<CartItem>)ViewData["myItems"];
     <tr>
         <form asp-action="EditOrder" method="post">
         <td>@item.Name</td>
-        <td>@(item.Price*1.1)</td>
+        <td>@(item.Price*1)</td>
         <td><input type="number" min="0" name="quantity" value="@item.Quantity"/></td>
-        <td>@((1.1 * item.Price)*item.Quantity)</td>
+        <td>@((1 * item.Price)*item.Quantity)</td>
         <td>        
             <input type="hidden" name="id" value="@item.Id"/>        
             <input type="submit" value="Update" class="btn btn-info"/>    
